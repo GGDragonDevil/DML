@@ -62,8 +62,8 @@ public abstract class TameableDragonEntity extends TameableEntity
     // base attributes
     public static final double BASE_SPEED_GROUND = 0.3;
     public static final double BASE_SPEED_FLYING = 0.6;
-    public static final double BASE_DAMAGE = 8;
-    public static final double BASE_HEALTH = 60;
+    public static final double BASE_DAMAGE = 18;
+    public static final double BASE_HEALTH = 940;
     public static final double BASE_FOLLOW_RANGE = 16;
     public static final double BASE_FOLLOW_RANGE_FLYING = BASE_FOLLOW_RANGE * 2;
     public static final double ALTITUDE_FLYING_THRESHOLD = 2;
